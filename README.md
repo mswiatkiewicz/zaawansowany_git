@@ -4,3 +4,4 @@ kolejnazamiana
 DKJNER;GFHERIGH;H
 new2
 # zaawansowany_git
+modyfikacja pod konflikt
